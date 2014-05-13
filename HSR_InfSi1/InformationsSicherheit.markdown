@@ -18,5 +18,6 @@ Beim Kapitel Risiko Management geht es darum die Begriffe und Grundprinzipien de
 Wahrung der Vertraulichkeit, Echtheit und Verfügbarkeit von Informationen. Dies kann man sich merken mit der Abkürzung **CIA**.CIA steht für **Confidentiality**, **Integrity** und **Availability**. 
 
 
+
 **Was ist ISO2700**
 
