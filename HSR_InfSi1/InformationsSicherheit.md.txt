@@ -17,7 +17,12 @@ Beim Kapitel Risiko Management geht es darum die Begriffe und Grundprinzipien de
 **Was ist Informationssicherheit?**
 Wahrung der Vertraulichkeit, Echtheit und Verfügbarkeit von Informationen. Dies kann man sich merken mit der Abkürzung **CIA**.CIA steht für **Confidentiality**, **Integrity** und **Availability**. 
 
+**Typische Angriffe auf die CIA Begriffe:**
 
+| Begriff         | Angriffsarten                 | Erklärung                                                       |
+| --------------- | ----------------------------- | --------------------------------------------------------------- |
+| Confidentiality | Read, Sniff, Eavesdrop        | Informationen werden gelesen, d.h. sind nicht mehr vertraulich. |
+| Integrity       | Forge, Modify, Spoof, Fake    | Informationen werden verändert und verlieren so ihre Integrität.|
+| Availability    | Flooding, Denial of Service   | Informationen sind nicht mehr abrufbar/verfügbar.               |
 
-**Was ist ISO2700**
 
