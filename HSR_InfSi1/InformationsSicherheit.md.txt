@@ -19,10 +19,19 @@ Wahrung der Vertraulichkeit, Echtheit und Verfügbarkeit von Informationen. Dies
 
 **Typische Angriffe auf die CIA Begriffe:**
 
-| Begriff         | Angriffsarten                 | Erklärung                                                       |
+| Begriff         | Angriffs Arten                 | Erklärung                                                       |
 | --------------- | ----------------------------- | --------------------------------------------------------------- |
 | Confidentiality | Read, Sniff, Eavesdrop        | Informationen werden gelesen, d.h. sind nicht mehr vertraulich. |
 | Integrity       | Forge, Modify, Spoof, Fake    | Informationen werden verändert und verlieren so ihre Integrität.|
 | Availability    | Flooding, Denial of Service   | Informationen sind nicht mehr abrufbar/verfügbar.               |
 
+Aber abgesehen von "pöhsen" Hackern gibt es auch noch andere Dinge die unsere Informationen in Gefahr bringen. Typische Gefährdungen sind unter anderem:
+ 1. Höhere Gewalt
+ 2. Organisatorische Mängel
+ 3. Menschliche Fehlhandlungen
+ 4. Technisches Versagen
+ 5. Vorsätzliche Handlungen
 
+
+
+sdafsdfjlk hallo hello ddsajkfs
