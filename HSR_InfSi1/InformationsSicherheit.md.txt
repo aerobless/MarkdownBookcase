@@ -25,14 +25,27 @@ Wahrung der Vertraulichkeit, Echtheit und Verfügbarkeit von Informationen. Dies
 | Integrity       | Forge, Modify, Spoof, Fake    | Informationen werden verändert und verlieren so ihre Integrität.|
 | Availability    | Flooding, Denial of Service   | Informationen sind nicht mehr abrufbar/verfügbar.               |
 
-Aber abgesehen von "pöhsen" Hackern gibt es auch noch andere Dinge die unsere Informationen in Gefahr bringen. Typische Gefährdungen sind unter anderem:
+Aber abgesehen von "pöhsen" Hackern gibt es auch noch andere Dinge die unsere Informationen in Gefahr bringen. Typische Gefährdungen (auch Informationssicherheits Vorfall genannt) sind unter anderem:
  1. Höhere Gewalt
  2. Organisatorische Mängel
  3. Menschliche Fehlhandlungen
  4. Technisches Versagen
  5. Vorsätzliche Handlungen
 
-Dagegen wehren kann man sich mit denn folgenden Gegenmassenahmen:
+**Informationssicherheits Vorfall (InfSi-Vorfall)**<a name="InfSi-Vorfall"></a>
+Ein InfSi-Vorfall (Event) ist ein unerwünschtes Ereignis, welches die Informationssicherheit beeinträchtigt, bzw. zum Verlust von einem oder mehreren Werten der Information führt. Ob und wie häufig solche Events eintreten hängt von der Gefährdungslage (Bedrohungspotential, Threat), vom vorhandenen Schutz der Informationen (Protection, Measures, Controls), sowie von der Verletzlichkeit (Vulnerabilities) der Schutzmassnahmen ab.
+
+**Bedrohung (Threat):**<a name="Bedrohung"></a>
+Allgemein ist eine Bedrohung (Threat) ein Umstand durch den ein Schaden entstehen kann. Der Schaden bezieht sich dabei auf einen konkreten Wert wie Vermögen, Wissen, Gegenstände oder Gesundheit. Im speziellen bei InfSi ist eine Bedrohung ein Schaden der die `Verfügbarkeit`, `Integrität` oder `Vertraulichkeit` von Informationen beeinträchtigt.
+
+**Schwachstelle (Vulnerability):**<a name="Schwachstelle"></a>
+Eine Schwachstelle ist eine Verletzlichkeit in den Schutzmassnahmen die gegen einen InfSi-Vorfall eingesetzt werden. (siehe auch: Sicherheitslücke, Vulernability).
+
+**Gefährdung (Applied Threat):**<a name="Gefährdung"></a>
+Wenn eine [Bedrohung](#Bedrohung) auf eine [Schwachstelle](#Schwachstelle) trifft dann ergibt sich daraus eine Gefährdung. D.h. eine Gefährdung ist eine Bedrohung die konkret über eine Schwachstelle auf ein Objekt einwirkt. z.B. "gecracktes Photoshop via torrent downloaden (Bedrohung)" + "keine Anti-Virus Software haben (Schwachstelle)" = "Gefährdung".
+ 
+
+Dagegen wehren kann man sich wenn man sich in einem oder mehreren der folgenden Bereichen verbessert:
  1. Infrastruktur
  2. Organisation
  3. Personal
