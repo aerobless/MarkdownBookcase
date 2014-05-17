@@ -43,7 +43,15 @@ Eine Schwachstelle ist eine Verletzlichkeit in den Schutzmassnahmen die gegen ei
 
 **Gefährdung (Applied Threat):**<a name="Gefährdung"></a>
 Wenn eine [Bedrohung](#Bedrohung) auf eine [Schwachstelle](#Schwachstelle) trifft dann ergibt sich daraus eine Gefährdung. D.h. eine Gefährdung ist eine Bedrohung die konkret über eine Schwachstelle auf ein Objekt einwirkt. z.B. "gecracktes Photoshop via torrent downloaden (Bedrohung)" + "keine Anti-Virus Software haben (Schwachstelle)" = "Gefährdung".
- 
+
+> **Gefährdung** = Bedrohung + Schwachstelle
+> **Risiko** = durchschnittlicher Schaden aufgrund der **Gefährdung**
+
+In der Praxis sehr schwer zu berechnen, weil Technologie sich schnell verändert, und nicht genügend Daten als Grundlage vorhanden sind. Z.B. Auto-Unfälle gibt es immer wieder und in etwas gleichem Ausmass. Bei der Informations Sicherheit gibt es das nicht und es werden auch nicht alle Vorfälle bekannt gemacht.
+
+
+
+<!---![Gefährdung = Bedrohung + Schwachstelle](./images/risiko01.png)--> 
 
 Dagegen wehren kann man sich wenn man sich in einem oder mehreren der folgenden Bereichen verbessert:
  1. Infrastruktur
